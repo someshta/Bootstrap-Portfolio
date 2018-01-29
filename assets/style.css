@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+#profileimg {
+	height: 175px;
+	width:  175px;
+
+}
+
+#profilep {
+	text-align: wrap;
+}
+
+
+.tings {
+	height: 170px;
+	width: 170px;
+	padding: 5px;
+	border-radius: 20px;
+}
+
+img:hover.tings {
+	opacity: 0.5;
+}
