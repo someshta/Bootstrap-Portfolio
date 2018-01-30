@@ -2,16 +2,55 @@
 	box-sizing: border-box;
 }
 
+#myname {
+	font-family: Berkshire Swash;
+}
+
 #profileimg {
 	height: 175px;
 	width:  175px;
 
 }
 
+.nav-link {
+	font-family: poiret one !important;
+	font-weight: bold;
+}
+
 #profilep {
 	text-align: wrap;
 }
 
+h2 {
+	font-family: Berkshire Swash;
+}
+
+#about {
+	padding: 10px;
+	border: 1px solid #007BFF;
+	margin-top: 40px;
+	font-family: poiret one;
+}
+
+#connect {
+	padding: 10px;
+	margin-top: 40px;
+	font-family: poiret one;
+}
+
+input, textarea {
+	font-family: poiret one;
+}
+
+button {
+	font-family: poiret one;
+	font-weight: bold;
+}
+
+#footer {
+	margin-top: 40px;
+	font-family: Poiret One;
+}
 
 .tings {
 	height: 170px;
